@@ -58,12 +58,17 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpaniKapuge&layout=compact&theme=dark" height="192px"/>
+    <img alt="Most used languages" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpaniKapuge&layout=compact&theme=dark&bg_color=000000,000428,004e92&title_color=ffffff&text_color=00c8ff" 
+     height="192px"/>
+
   
 </td>
 <td width="50%" align="center">
 
- <img src="https://github-readme-stats.vercel.app/api?username=KalpaniKapuge&show_icons=true&icon_color=ffffff&theme=dark" alt="Kalpani's Github Stats" height="192px"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=KalpaniKapuge&show_icons=true&icon_color=00c8ff&theme=dark&bg_color=000000,000428,004e92&title_color=ffffff&text_color=00c8ff" 
+     alt="Kalpani's Github Stats" height="192px"/>
+
   
   </td>
 </tr>
